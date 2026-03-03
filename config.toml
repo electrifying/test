@@ -14,6 +14,6 @@ version = "20.21.37"
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 # uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/crimsonman/apk/com.google.android.youtube"
-excluded-patches = "'сюда название пакета'"
+excluded-patches = "'Downloads' 'Return YouTube Dislike' 'Spoof app version' 'Alternative thumbnails' 'GmsCore support'"
 patcher-args = "-e 'Custom branding icon for YouTube' -OappIcon='revancify_blue'"
 
